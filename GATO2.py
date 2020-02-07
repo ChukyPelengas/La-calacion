@@ -1,3 +1,9 @@
+
+
+PORQEUE MI JUEVOS ESTÁN PELOS?
+
+
+
 ##crea nuestra pantalla
 from tkinter import *
 from time import sleep
